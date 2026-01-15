@@ -1,0 +1,6 @@
+pennylane
+numpy
+pandas
+plotly
+scipy
+tqdm
